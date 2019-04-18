@@ -1,0 +1,5 @@
+# Ignore build files
+dist/*
+Client/buysideTemplates.js
+Client/buyside.min.js
+src-platform/bsp-proxy-server
