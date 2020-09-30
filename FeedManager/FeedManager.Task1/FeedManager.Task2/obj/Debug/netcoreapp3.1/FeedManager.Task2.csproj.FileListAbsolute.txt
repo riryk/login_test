@@ -1,0 +1,13 @@
+C:\data\epam\net_mentoring\Pattern_basic\TemplateMethod\FeedManager\FeedManager.Task1\FeedManager.Task2\obj\Debug\netcoreapp3.1\FeedManager.Task2.csproj.CoreCompileInputs.cache
+C:\data\epam\net_mentoring\Pattern_basic\TemplateMethod\FeedManager\FeedManager.Task1\FeedManager.Task2\obj\Debug\netcoreapp3.1\FeedManager.Task2.AssemblyInfoInputs.cache
+C:\data\epam\net_mentoring\Pattern_basic\TemplateMethod\FeedManager\FeedManager.Task1\FeedManager.Task2\obj\Debug\netcoreapp3.1\FeedManager.Task2.AssemblyInfo.cs
+C:\data\epam\net_mentoring\Pattern_basic\TemplateMethod\FeedManager\FeedManager.Task1\FeedManager.Task2\bin\Debug\netcoreapp3.1\FeedManager.Task2.exe
+C:\data\epam\net_mentoring\Pattern_basic\TemplateMethod\FeedManager\FeedManager.Task1\FeedManager.Task2\bin\Debug\netcoreapp3.1\FeedManager.Task2.deps.json
+C:\data\epam\net_mentoring\Pattern_basic\TemplateMethod\FeedManager\FeedManager.Task1\FeedManager.Task2\bin\Debug\netcoreapp3.1\FeedManager.Task2.runtimeconfig.json
+C:\data\epam\net_mentoring\Pattern_basic\TemplateMethod\FeedManager\FeedManager.Task1\FeedManager.Task2\bin\Debug\netcoreapp3.1\FeedManager.Task2.runtimeconfig.dev.json
+C:\data\epam\net_mentoring\Pattern_basic\TemplateMethod\FeedManager\FeedManager.Task1\FeedManager.Task2\bin\Debug\netcoreapp3.1\FeedManager.Task2.dll
+C:\data\epam\net_mentoring\Pattern_basic\TemplateMethod\FeedManager\FeedManager.Task1\FeedManager.Task2\bin\Debug\netcoreapp3.1\FeedManager.Task2.pdb
+C:\data\epam\net_mentoring\Pattern_basic\TemplateMethod\FeedManager\FeedManager.Task1\FeedManager.Task2\obj\Debug\netcoreapp3.1\FeedManager.Task2.dll
+C:\data\epam\net_mentoring\Pattern_basic\TemplateMethod\FeedManager\FeedManager.Task1\FeedManager.Task2\obj\Debug\netcoreapp3.1\FeedManager.Task2.pdb
+C:\data\epam\net_mentoring\Pattern_basic\TemplateMethod\FeedManager\FeedManager.Task1\FeedManager.Task2\obj\Debug\netcoreapp3.1\FeedManager.Task2.genruntimeconfig.cache
+C:\data\epam\net_mentoring\Pattern_basic\TemplateMethod\FeedManager\FeedManager.Task1\FeedManager.Task2\obj\Debug\netcoreapp3.1\FeedManager.Task2.csprojAssemblyReference.cache

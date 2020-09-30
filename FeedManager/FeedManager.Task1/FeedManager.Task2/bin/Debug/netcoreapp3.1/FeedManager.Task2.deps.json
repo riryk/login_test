@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FeedManager.Task2/1.0.0": {
+        "runtime": {
+          "FeedManager.Task2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FeedManager.Task2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
